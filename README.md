@@ -17,16 +17,6 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Getting Started](#getting_started)
-- [Built Using](#built_using)
-- [Authors](#authors)
-- [Quick Preview](#preview)
-
-<br>
 
 ## 🧐 About <a name = "about"></a>
 This is an admin based dbms web project developed for the management of the records of product, billing and product sales. It is created with the motive of creating ease for the counter-management side of any seller.
