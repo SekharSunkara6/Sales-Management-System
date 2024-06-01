@@ -109,12 +109,6 @@ This is an admin based dbms web project developed for the management of the reco
 
 <br>
 
-## ⛏️ Built Using <a name = "built_using"></a>
-
-- [TailwindCSS](https://tailwindcss.com) - CSS Framework
-- [Undraw.co](https://undraw.co/) - Open Source Illustrations
-- [Django](https://www.djangoproject.com) - Web Framework
-
     >**Note** : In this project, Django's builtin  database-abstraction API is not used . All the create, insert, retrieve, update and delete operations of objects are done through embedded **raw SQL**.
 - [MySQL](https://www.mysql.com/) - Relational Database
 
